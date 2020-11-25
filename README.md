@@ -8,4 +8,6 @@ https://www.fortinet.com/blog/business-and-technology/fortios-ssl-vulnerability
 ## Usage (One Liner to Initiate the Scan : Host|IP:Port(443 or 10443 or 8443)
 `./fortiscan 192.168.1.1:10443
 `
+## Requirements
+Tested with Parrot & Debian Operating Systems and Windows 10
 
