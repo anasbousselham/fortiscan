@@ -9,6 +9,8 @@ You can use this tool to check the vulnerability in your FortiGate SSL-VPN.
 
 https://www.fortinet.com/blog/business-and-technology/fortios-ssl-vulnerability
 
+![Test Image 3](https://github.com/anasbousselham/fortiscan/blob/master/screenshoot/3.jpg)
+
 ![Test Image 1](https://github.com/anasbousselham/fortiscan/blob/master/screenshoot/1.jpg)
 
 ![Test Image 2](https://github.com/anasbousselham/fortiscan/blob/master/screenshoot/2.jpg)
