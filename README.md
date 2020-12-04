@@ -26,4 +26,6 @@ https://www.fortinet.com/blog/business-and-technology/fortios-ssl-vulnerability
 `
 ## Requirements
 Tested with Parrot & Debian Operating Systems and Windows 10
+### Compiled version Linux & windows
+https://github.com/anasbousselham/fortiscan/releases
 
