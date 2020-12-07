@@ -29,3 +29,6 @@ Tested with Parrot & Debian Operating Systems and Windows 10
 ### Compiled version Linux & windows
 https://github.com/anasbousselham/fortiscan/releases
 
+
+# Bitoin tips are welcome at 1Fdp6ouUTNjkLwQJKt7rWfbuZpZ3rX5nAt
+
